@@ -1,6 +1,6 @@
 # Backup-Diary
   
-  O script a seguir tem o objetivo de efetuar os backups dos diretórios selecionados, a fim de facilitar a automatização de rotinas dentro de um servidor.
+  O script a seguir tem o objetivo de efetuar os backups diários dos diretórios selecionados, a fim de facilitar a automatização de rotinas dentro de um servidor.
 
 ![](https://linuxengineering.files.wordpress.com/2014/08/linux_inside_tux.png)
 
